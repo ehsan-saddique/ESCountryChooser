@@ -7,6 +7,7 @@
 This library provides the following features:
 - A country can be selected from a list in a table view.
 - The list can be searched using a search bar.
+- The list can be searched using a country's name or ISO code e.g "us" for "United States".
 - All the countries assigned a ISO 3166-1 alpha-2 two-letter code are available.
 - Countries are localised through the NSLocale API methods
 - The anatomy of the view presented by `ESCountryChooser` is the following:
